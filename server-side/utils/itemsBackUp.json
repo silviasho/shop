@@ -1,0 +1,401 @@
+{
+    "items": [{
+            "img": "https://d3ajt0yv1dh774.cloudfront.net/uploads/2019/05/5678-thickbox_default-390x500.jpg",
+            "productName": "colourfull bathing suit",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 21,
+            "price": 55,
+            "gender": "male",
+            "category": "swimsuit"
+        },
+        {
+            "img": "https://d3ajt0yv1dh774.cloudfront.net/uploads/2020/02/men-Alpha-Industries-Basic-Swim-Short__196930429-1-300x300.jpg",
+            "productName": "Orange swimsuit",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 22,
+            "price": 35,
+            "gender": "male",
+            "category": "swimsuit"
+        },
+        {
+            "img": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1WObBNzDpK1RjSZFrq6y78VXaJ/%D7%92%D7%91%D7%A8%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98-%D7%A8%D7%99%D7%A6%D7%94-%D7%97%D7%95%D7%A3-%D7%A7%D7%A6%D7%A8-%D7%9C%D7%95%D7%97-%D7%9E%D7%9B%D7%A0%D7%A1%D7%99%D7%99%D7%9D-%D7%97%D7%9D-%D7%9C%D7%9E%D7%9B%D7%95%D7%A8-%D7%9C%D7%A9%D7%97%D7%95%D7%AA-trunk-%D7%9E%D7%9B%D7%A0%D7%A1%D7%99%D7%99%D7%9D-%D7%9E%D7%94%D7%99%D7%A8-%D7%99%D7%99%D7%91%D7%95%D7%A9-%D7%AA%D7%A0%D7%95%D7%A2%D7%94.jpg",
+            "productName": "Short turquoise swimsuit",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 23,
+            "price": 70,
+            "gender": "man",
+            "category": "swimsuit"
+        },
+        {
+            "img": "https://www.the-taylor-rose.com/wp-content/uploads/2017/07/image1-1-1-500x496.jpg",
+            "productName": "pineapple swimsuit",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 24,
+            "price": 65,
+            "gender": "male",
+            "category": "swimsuit"
+        },
+        {
+            "img": "https://lh3.googleusercontent.com/proxy/98jyQPYvwAShOkBn2gNx7iRsh2VdYFL9Dq-E2rbvNqL_bWZFwXr3wOFmcmGBelm6A5yAZv3Y8v_wH772Vi-s1jkJqelUe0GShv4QocZv1Ooq-fdgpA7q1mPQmphci-RjYmQX",
+            "productName": "pink swimsuit",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 25,
+            "price": 55,
+            "gender": "male",
+            "category": "swimsuit"
+        },
+        {
+            "img": "https://www.dubonim.com/wp-content/uploads/2019/05/bikini2-white.jpg",
+            "productName": "White bikini",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 26,
+            "price": 105,
+            "gender": "female",
+            "category": "swimsuit"
+        },
+        {
+            "img": "https://d3ajt0yv1dh774.cloudfront.net/uploads/2019/05/5678-thickbox_default-390x500.jpg",
+            "productName": "Sports swimsuit",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 27,
+            "price": 40,
+            "gender": "female",
+            "category": "swimsuit"
+        },
+        {
+            "img": "https://contents.mediadecathlon.com/p1541139/k$aa1e20a4d6718eb086edbd92a0bd1928/-.jpg?&f=400x400",
+            "productName": "Classic black swimsuit",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 28,
+            "price": 55,
+            "gender": "man",
+            "category": "swimsuit"
+        },
+        {
+            "img": "https://ae01.alicdn.com/kf/H1e1e7a332d9a46a8b3fbbc4dd95e0071m.jpg",
+            "productName": "Pregnancy swimsuit",
+            "sizeInStock": ["m", "l"],
+            "onSale": false,
+            "code": 29,
+            "price": 35,
+            "gender": "female",
+            "category": "swimsuit"
+        },
+        {
+            "img": "https://ae01.alicdn.com/kf/H0bbe75f3282a443584bad14b1e678700x/2.jpg",
+            "productName": "Pink bikini with hearts",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 30,
+            "price": 85,
+            "gender": "female",
+            "category": "swimsuit"
+        },
+        {
+            "img": "https://cdn.azrieli.com/Images/25b0c6d9-eec7-46b5-a094-870c86e69336/Normal/a8ecd1f8.jpg",
+            "productName": "Black elegance",
+            "sizeInStock": [39, 40, 41, 42],
+            "onSale": false,
+            "code": 31,
+            "price": 135,
+            "gender": "male",
+            "category": "shoes"
+        },
+        {
+            "img": "https://www.wallashops.co.il/Images/7Q/CCQ2331/513/560X500_0_jpg?ud=637159040300030000",
+            "productName": "red sneakers",
+            "sizeInStock": [39, 40, 41, 42],
+            "onSale": true,
+            "code": 32,
+            "price": 135,
+            "gender": "male",
+            "category": "shoes"
+        },
+        {
+            "img": "https://www.timberland.co.il/pub/media/catalog/product/cache/f36c6eb170f52643bbe71a8038b1874d/A/1/A1QAO-T-5801_6.jpg",
+            "productName": "running shoes",
+            "sizeInStock": [39, 40, 41, 42],
+            "onSale": false,
+            "code": 33,
+            "price": 135,
+            "gender": "male",
+            "category": "shoes"
+        },
+        {
+            "img": "https://d3m9l0v76dty0.cloudfront.net/system/photos/1690110/large/245dfdd50ee5a2b5e880da0046b97157.jpg",
+            "productName": "Work shoes           ",
+            "sizeInStock": [39, 40, 41, 42],
+            "onSale": false,
+            "code": 34,
+            "price": 150,
+            "gender": "male",
+            "category": "shoes"
+        },
+        {
+            "img": "https://media.terminalx.com/pub/media/catalog/product/cache/small_image/360x480/beff4985b56e3afdbeabfc89641a4582/x/5/x570210006-11586182021.jpg",
+            "productName": "Flip flops",
+            "sizeInStock": [39, 40, 41, 42],
+            "onSale": false,
+            "code": 35,
+            "price": 135,
+            "gender": "male",
+            "category": "shoes"
+        },
+        {
+            "img": "https://mi0.rightinthebox.com/images/285x285/202001/ywbi1577956482221.jpg",
+            "productName": "Heeled sandals",
+            "sizeInStock": [37, 38, 39, 40],
+            "onSale": true,
+            "code": 36,
+            "price": 200,
+            "gender": "female",
+            "category": "shoes"
+        },
+        {
+            "img": "https://cashcow-cdn.azureedge.net/images/b9c5c761-58c5-4638-8d0b-6b335b4e151b.jpg",
+            "productName": "White sneakers",
+            "sizeInStock": [37, 38, 39, 40],
+            "onSale": false,
+            "code": 37,
+            "price": 50,
+            "gender": "female",
+            "category": "shoes"
+        },
+        {
+            "img": "https://shop.fashanga.co.il/storage/web/source/12303/6UgeaxYQlZu7hY0--OL-aE_ViYy08EGj.jpg",
+            "productName": "red sneakers",
+            "sizeInStock": [37, 38, 39, 40],
+            "onSale": true,
+            "code": 38,
+            "price": 100,
+            "gender": "female",
+            "category": "shoes"
+        },
+        {
+            "img": "https://lh3.googleusercontent.com/proxy/aJfcxP0vswBCWyxWj-rUqShm8DzNXp7_AQTOaKKuMMyOXxpp7lK53LYNjX9PjELnq0e-e82uRLSIw0ECI0R-D1JHIQE03lqgslIpUB-7TyWkGahFyIZzgg9YAfIp1zKtGa232qgisvsBVHy8MIBoJxs",
+            "productName": "running shoes",
+            "sizeInStock": [37, 38, 39, 40],
+            "onSale": false,
+            "code": 39,
+            "price": 90,
+            "gender": "female",
+            "category": "shoes"
+        },
+        {
+            "img": "https://directfarming.co.il/wp-content/uploads/2020/02/winter-boots-795706_640.jpg",
+            "productName": "Light blue boots",
+            "sizeInStock": [37, 38, 39, 40],
+            "onSale": false,
+            "code": 40,
+            "price": 135,
+            "gender": "female",
+            "category": "shoes"
+        }, {
+            "img": "https://cdn.shopify.com/s/files/1/1271/4989/products/Dickies_heavyweight_Long_Sleeve_Flannel_Shirt_Red_grande.jpg?v=1575380114",
+            "productName": "work shirt",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 11,
+            "price": 89,
+            "gender": "male",
+            "category": "shirts"
+        },
+        {
+            "img": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw45b9e7cd/images/main/WL450_AG_FR.jpg?sw=583&sh=746&sm=fit",
+            "productName": "gray shirt",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 12,
+            "price": 55,
+            "gender": "male",
+            "category": "shirts"
+        },
+        {
+            "img": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw0eece9f6/images/main/WL450_WH_FR.jpg?sw=583&sh=746&sm=fit",
+            "productName": "pazz shirt",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 13,
+            "price": 28,
+            "gender": "male",
+            "category": "shirts"
+        },
+        {
+            "img": "https://images.homedepot-static.com/productImages/71918aa8-751f-4baf-a566-7917550e1a31/svn/black-dickies-work-shirts-wl450bk-2x-64_1000.jpg",
+            "productName": "day-night shirt",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 14,
+            "price": 70,
+            "gender": "male",
+            "category": "shirts"
+        },
+        {
+            "img": "https://boardworld2.imgix.net/uploads/content/product/Dickies/dickies-plano-classic-fit-long-sleee-tee-black-white.1568261045.jpg?auto=format,compress&w=1852&h=1852&fit=crop",
+            "productName": "dickies shirt",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 15,
+            "price": 58,
+            "gender": "male",
+            "category": "shirts"
+        },
+        {
+            "img": "https://i.insider.com/5d7fe9cc2e22af2d162c8534?width=1136&format=jpeg",
+            "productName": "home shirt",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 16,
+            "price": 66,
+            "gender": "female",
+            "category": "shirts"
+        },
+        {
+            "img": "https://media.missguided.com/s/missguided/TJF18245_set/1/grey-fatal-obsession-graphic-t-shirt",
+            "productName": "rock shirt",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 17,
+            "price": 88,
+            "gender": "female",
+            "category": "shirts"
+        },
+        {
+            "img": "https://pa.namshicdn.com/product/A6/53736W/1-zoom-desktop.jpg",
+            "productName": "lacost shirt",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 18,
+            "price": 63,
+            "gender": "female",
+            "category": "shirts"
+        },
+        {
+            "img": "https://www.sportsgirl.com.au/media/catalog/product/0/5/056094_302_1.jpg?quality=98&bg-color=255,255,255&fit=bounds&height=572&width=480&canvas=480:572",
+            "productName": "sun diego shirt",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 19,
+            "price": 56,
+            "gender": "female",
+            "category": "shirts"
+        },
+        {
+            "img": "https://media.missguided.com/s/missguided/TW424508_set/1/white-extreme-oversized-satin-shirt.jpg?$category-page__grid--1x$",
+            "productName": "lovley shirt",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 20,
+            "price": 78,
+            "gender": "female",
+            "category": "shirts"
+        }, {
+            "img": "https://de9luwq5d40h2.cloudfront.net/catalog/product/large_image/03_413437.jpg",
+            "productName": "cool pants",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 1,
+            "price": 45,
+            "gender": "male",
+            "category": "pants"
+        },
+        {
+            "img": "https://konimboimages.s3.amazonaws.com/system/photos/2838826/large/bd7d85e1d81c99425cc3aec8c2be81ca.jpg",
+            "productName": "lazy pants",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 2,
+            "price": 55,
+            "gender": "male",
+            "category": "pants"
+        },
+        {
+            "img": "https://www.rikushet.co.il/pub/media/catalog/product/cache/small_image/360x360/beff4985b56e3afdbeabfc89641a4582/n/m/nm1357_721_1.jpg",
+            "productName": "home pants",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 3,
+            "price": 28,
+            "gender": "male",
+            "category": "pants"
+        },
+        {
+            "img": "https://www.motorave.co.il/wp-content/uploads/2018/06/gp-air-pants-mono_OCEAN-3.jpg",
+            "productName": "day-night pants",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 4,
+            "price": 70,
+            "gender": "male",
+            "category": "pants"
+        },
+        {
+            "img": "https://d3m9l0v76dty0.cloudfront.net/system/photos/2952409/original/6d89bad53ef5f4e6ae88eeab588e3433.jpg",
+            "productName": "jungle pants",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 5,
+            "price": 58,
+            "gender": "male",
+            "category": "pants"
+        },
+        {
+            "img": "https://il.topshop.com/media/catalog/product/cache/3/image/410x615/9df78eab33525d08d6e5fb8d27136e95/1/7/179285225ec6514e4c84be16f6d6976f.jpg",
+            "productName": "black pants",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 6,
+            "price": 66,
+            "gender": "female",
+            "category": "pants"
+        },
+        {
+            "img": "https://www.golbary.co.il/pub/media/catalog/product/cache/image/1200x1600/e9c3970ab036de70892d86c6d221abfe/2/0/201053_11_1.jpg",
+            "productName": "fancy pants",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": true,
+            "code": 7,
+            "price": 88,
+            "gender": "female",
+            "category": "pants"
+        },
+        {
+            "img": "https://www.adikastyle.com/media/catalog/product/cache/2/small_image/600x900/9df78eab33525d08d6e5fb8d27136e95/0/i/0i4a3633_copy.jpg",
+            "productName": "pinki pants",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 8,
+            "price": 63,
+            "gender": "female",
+            "category": "pants"
+        },
+        {
+            "img": "https://www.golbary.co.il/pub/media/catalog/product/cache/small_image/360x480/beff4985b56e3afdbeabfc89641a4582/2/9/298932_31_1.jpg",
+            "productName": "street pants",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 9,
+            "price": 56,
+            "gender": "female",
+            "category": "pants"
+        },
+        {
+            "img": "https://www.dutymoti.co.il/media/catalog/product/cache/2/image/1280x1522/17f82f742ffe127f42dca9de82fb58b1/0/5/050292093tcr-1.jpg",
+            "productName": "skini pants",
+            "sizeInStock": ["s", "m", "l"],
+            "onSale": false,
+            "code": 10,
+            "price": 78,
+            "gender": "female",
+            "category": "pants"
+        }
+    ]
+}
